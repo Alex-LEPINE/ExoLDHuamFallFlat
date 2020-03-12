@@ -28,6 +28,14 @@ MonoBehaviour:
   - pbDetachToNewObject
   - pbExtrudeAsGroup
   - pbManifoldEdgeExtrusion
+  - pbDefaultOpenInDockableWindow
+  - pbIconGUI
+  - pbObjExportRightHanded
+  - pbObjApplyTransform
+  - pbObjExportCopyTextures
+  - pbObjExportVertexColors
+  - pbObjTextureOffsetScale
+  - pbObjQuads
   m_Int_keys:
   - pbDefaultEditLevel
   - pbDefaultSelectionMode
@@ -37,6 +45,7 @@ MonoBehaviour:
   - pbEdgeSubdivisions
   - pbDragSelectMode
   - pbMirrorObjectScale
+  - pbDefaultExportFormat
   m_Float_keys:
   - pbEditorScroll.x
   - pbEditorScroll.y
@@ -49,16 +58,16 @@ MonoBehaviour:
   - pbCurrentMaterialPalette
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 00010101010101010100010000010100
-  m_Int_values: 0000000002000000010000000000000000000000050000000000000009000000
+  m_Bool_values: 000101000101010101000101000101000101010101000101
+  m_Int_values: 010000000200000000000000000000000000000005000000000000000900000003000000
   m_Float_values:
   - 0
   - 0
   - 0.025
   - 20
   - 0.7406424
-  - 0.8058152
-  - 0.589
+  - 0.34975
+  - 1
   m_String_values:
   - Assets/ProCore/ProBuilder/Data/Default Material Palette.asset
   m_Color_values: []
