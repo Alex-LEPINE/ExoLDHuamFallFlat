@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes_For_Exercises/Exo1.unity
+- path: Assets/WorkShop/Scenes/Levels/IntermediateLevel 1.unity
   isLoaded: 1
   isActive: 1
